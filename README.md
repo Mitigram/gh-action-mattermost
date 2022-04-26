@@ -1,11 +1,18 @@
 # gh-action-mattermost
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+**DEPRECATED** This repository is now in archive mode as Mitigram has stopped
+using Mattermost. You may get some voluntary support through this friendly
+[fork].
+
 This implements a curl/sh-based action to send Mattermost notifications. The
 action provides for access to most of the parameters supported by incoming
 [webhooks] and provides automatic GitHub, workflow and runner information
 through the `card` mechanism. This information will be accessible from the
 **info** icon displayed alongside the post.
 
+  [fork]: https://github.com/efrecon/gh-action-mattermost
   [webhooks]: https://developers.mattermost.com/integrate/incoming-webhooks/
 
 ## Usage
