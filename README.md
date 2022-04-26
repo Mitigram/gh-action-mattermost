@@ -2,9 +2,9 @@
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-**DEPRECATED** This repository is now in archive mode as Mitigram has stopped
-using Mattermost. You may get some voluntary support through this friendly
-[fork].
+**⛔️DEPRECATED⛔️** This repository is now in archive mode as Mitigram has
+stopped using Mattermost. You may get some voluntary support through this
+friendly [fork].
 
 This implements a curl/sh-based action to send Mattermost notifications. The
 action provides for access to most of the parameters supported by incoming
